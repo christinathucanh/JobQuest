@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "jobsift",
+    "slug": "jobsift",
+    "plugins": [
+      "expo-router"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e955e19d-8e72-445b-b209-8fc363c7c581"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/e955e19d-8e72-445b-b209-8fc363c7c581"
+    },
+    "android": {
+      "package": "com.christina03.jobsift"
+    },
+    "ios": {}
+  }
+}
