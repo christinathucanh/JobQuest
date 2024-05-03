@@ -10,8 +10,6 @@
 
 A hands-on experience in React Native development, from understanding the basics to building a feature-rich app with a focus on UI/UX, external data integration, and best practices.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
-
 <img width="1440" alt="Screenshot 2024-05-02 at 9 37 04 PM" src="https://github.com/christinathucanh/JobQuest/assets/95081865/bbb428c0-7fb0-4bcb-9343-17089b477854">
 <img width="1440" alt="Screenshot 2024-05-02 at 9 37 25 PM" src="https://github.com/christinathucanh/JobQuest/assets/95081865/fb1af06f-3e0e-42e8-875e-e412d14e8e20">
 <img width="1440" alt="Screenshot 2024-05-02 at 9 37 45 PM" src="https://github.com/christinathucanh/JobQuest/assets/95081865/273beb75-a1d2-48aa-823b-87d8b4a449ad">
